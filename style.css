@@ -1,0 +1,26 @@
+body {
+    background: url(images/papers.co-ax87-circle-color-is-my-drug-illustration-art-white-23-wallpaper\ -\ copie.jpg);
+}
+
+h1 {
+    border: 5px blueviolet solid;
+    border-radius: 15px / 10px;
+    box-shadow: 7px 7px 10px black;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.3em;
+    font-style: italic;
+    text-shadow: 5px 5px 8px black;
+}
+
+p {
+    font-size: 15px;
+    text-align: justify;
+}
+
+
+a:visited {
+    color: #FFCC66;
+}
